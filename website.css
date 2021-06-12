@@ -1,0 +1,71 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+body
+{
+	background: linear-gradient(45deg,cyan,pink,blue);
+}
+header
+{
+	background: linear-gradient(45deg,blue,green,orange);
+	font-size: 2em;
+}
+nav
+{
+	
+	background: radial-gradient(cyan,orange,darkblue);
+	padding: 10px;
+	margin: 0px;
+}
+nav a
+{
+	text-decoration: none;
+	text-align: center;
+	font-size: 20px;
+	padding: 30px;
+	margin: 20px 70px;
+}
+nav span
+{
+	margin-right: 9px;
+}
+h1
+{
+	text-decoration: underline;
+	color: white;
+	font-style: italic;
+	margin-right: 10px;
+	text-shadow:0 0 10px blue;
+}
+figure img
+{
+	width: 420px;
+	height: 200px;
+	border-radius: 10px;
+
+}
+section
+{
+	width: 420px;
+	height: 470px;
+	float: left;
+	background: radial-gradient(cyan,green,aqua);
+	margin-left: 20px;
+	margin-top: 10px;
+	box-shadow: 10px 0 10px black;
+	border-radius: 10px;
+}
+figcaption
+{
+	text-align: justify;
+	margin: 50px;
+	font-size: 18px;
+	font-style: italic;
+	color: darkblue;
+}
+/*figure
+{
+	margin: 20px;
+}*/
